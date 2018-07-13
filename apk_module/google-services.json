@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "356116148217",
+    "firebase_url": "https://nb-flash.firebaseio.com",
+    "project_id": "nb-flash",
+    "storage_bucket": "nb-flash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356116148217:android:0a937a3915c7ab93",
+        "android_client_info": {
+          "package_name": "com.nobasedev.nbflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356116148217-2mmfgj6k0q6beaopj7cevd2o1atb1pdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzRWFrdbEMvXejaxlHa4hrYAB2CoY-vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356116148217:android:8b538930b41b4d28",
+        "android_client_info": {
+          "package_name": "nbflash.nobasedev.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356116148217-2mmfgj6k0q6beaopj7cevd2o1atb1pdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzRWFrdbEMvXejaxlHa4hrYAB2CoY-vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
