@@ -27,8 +27,7 @@
 
                 <data
                     android:scheme="http"
-                    android:host="nbflash.herokuapp.com"
-                    android:pathPrefix="/main" />
+                    android:host="nbflash.herokuapp.com" />
             </intent-filter>
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
@@ -38,11 +37,10 @@
 
                 <data
                     android:scheme="https"
-                    android:host="nbflash.herokuapp.com"
-                    android:pathPrefix="/main" />
+                    android:host="nbflash.herokuapp.com" />
             </intent-filter>
             <meta-data android:name="default-url"
-                android:value="https://nbflash.herokuapp.com/main" />
+                android:value="https://nbflash.herokuapp.com" />
         </activity>
     </application>
 

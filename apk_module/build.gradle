@@ -10,8 +10,8 @@ android {
         applicationId "com.nobasedev.nbflash"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 6
-        versionName "1.0.2"
+        versionCode rootProject.versionCode
+        versionName rootProject.versionName
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
