@@ -25,6 +25,12 @@
                 <data android:scheme="http" android:host="nbflash.herokuapp.com" />
                 <data android:scheme="https"/>
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="nbflash" />
+            </intent-filter>
             <meta-data android:name="default-url"
                 android:value="https://nbflash.herokuapp.com" />
         </activity>
